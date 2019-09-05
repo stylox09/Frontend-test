@@ -1,0 +1,125 @@
+body{
+background-image: url(../Downloads/markus-spiske-g8Hleadb2zQ-unsplash.jpg);
+background-attachment: fixed;
+background-size: 100% 900px;
+
+
+}
+
+h1{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    opacity: 0.8;
+    
+
+}
+.reg-form{
+    text-align: center;
+    margin: 100px 300px;
+    
+}
+#registration{
+
+    width: 100%;
+    color: aliceblue;
+    background-color:black;
+    opacity: 0.6;
+    padding:20px 0px;
+    font-size: 20px;
+    text-decoration-color:black;
+}
+#button{
+padding:10px;
+border-radius: 6px;
+width: 200px;
+
+}
+#b{
+ padding: 10px;
+    border-radius: 6px;
+    width: 200px;  
+}
+#radio{
+font-size: 20px;
+
+}
+.btn{
+    padding: 5px;
+    border-radius: 6px;
+    width: 100px;
+    background-color: rgba(226, 233, 214, 0.603);
+    font-size: 19px;
+    text-decoration-color: black;
+}
+.red{ 
+    
+
+
+}
+ul{
+    background-color: black;
+    overflow: hidden;
+    opacity: 0.7;
+    border-radius: 7px;
+    
+}
+
+ ul   li{
+    float: left;
+    width: 200px;
+    height: 40px;
+    opacity: 0.6;
+    line-height:40px;
+text-align: center;
+font-size: 20px;
+margin:5px;
+list-style-type: none;
+
+    }
+    ul li a{
+
+        color:orange;
+        display:block;
+    }
+    ul li a:hover{
+        background-color:skyblue;
+
+
+
+    }
+    #icon{
+width: 250px;
+height: 280px;
+position: relative;
+left: 38%;
+padding: 20px;
+border: 10px;
+
+ }
+ #para{
+font-size: 24px;
+color:black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+opacity: 0.8;
+ }
+ #main{
+background-image: url(../Downloads/pawel-nolbert-wE_Dk2Kd3GQ-unsplash.jpg);
+background-attachment: fixed;
+background-size: 100% 500px;
+border-radius: 5px;
+height: 100px;
+opacity: 0.9;
+text-align: center;
+
+
+ }
+ #n{
+padding: 10px;
+height:60px;
+width: 60px;
+ }
+ h2{
+     text-align: center;
+     font-size: 60px;
+ }
+ 
